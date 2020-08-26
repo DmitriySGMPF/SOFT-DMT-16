@@ -7,7 +7,7 @@
 #include <QDebug>
 #include "scrollinfodev.h"
 #include "infodev.h"
-#include "dmt10.h"
+#include "dmt22.h"
 #include "devback.h"
 
 using namespace std;

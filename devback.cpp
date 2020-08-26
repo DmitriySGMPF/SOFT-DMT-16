@@ -61,7 +61,9 @@ bool DevBack::addNewDevice()//Функция добавления и иници�
     VerifiPassword(deviceHandle, pass, 1);
     QThread::msleep(300);
     GetUserDevID(deviceHandle, ID,compInfo,NONE);
-
+    qDebug() << "Статус коннекта";
+    //qDebug() << CheckConnect(); Странное поведение
+    qDebug() << "__________________________";
     Id = QString(ID);
 
     USER = settings.value("devices/" + Id + "/user").toString();

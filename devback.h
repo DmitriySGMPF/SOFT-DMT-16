@@ -1,7 +1,7 @@
 #ifndef DEVBACK_H
 #define DEVBACK_H
 #include <QObject>
-#include <dmt10.h>
+#include "dmt22.h"
 #include <QDebug>
 #include <QThread>
 #include <QSettings>

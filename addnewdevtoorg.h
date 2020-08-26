@@ -3,7 +3,7 @@
 
 #include <QDialog>
 #include <QString>
-#include "dmt10.h"
+#include "dmt22.h"
 #include <QSettings>
 #include <QDebug>
 #include <fstream>

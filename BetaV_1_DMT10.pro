@@ -39,7 +39,7 @@ HEADERS += \
     backend.h \
     devback.h \
     devinlist.h \
-    dmt10.h \
+    dmt22.h \
     downloadmanager.h \
     favorites.h \
     fileinfoforlist.h \
@@ -67,8 +67,8 @@ FORMS += \
 
 QT += multimedia multimediawidgets
 
-LIBS += "D:\DMT10.dll"
-#LIBS += "D:\DMT22.dll"
+#LIBS += "D:\DMT10.dll"
+LIBS += "D:\DMT22.dll"
 #LIBS += "D:\DMT22.lib"
 
 # Default rules for deployment.

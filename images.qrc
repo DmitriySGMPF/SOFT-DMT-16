@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/2_gold.png</file>
+        <file>img/2_black.png</file>
+        <file>img/none.png</file>
+        <file>img/dragon.png</file>
+        <file>img/audioIcon.png</file>
+        <file>img/photoIcon.png</file>
+        <file>img/videoIcon.png</file>
+        <file>img/DMT_EX.png</file>
+        <file>img/DMT10_.png</file>
+        <file>img/DMT16.png</file>
+    </qresource>
+</RCC>
